@@ -6,14 +6,13 @@
 
 ---
 
-## 👥 Integrantes da Equipe
-* **Nome Completo:** Guilherme Buglioli — **RM:** 00000 *(Ajustar conforme necessário)*
-* **Integrante 2:** *(Opcional)*
-* **Integrante 3:** *(Opcional)*
+##  Integrantes da Equipe
+Guilherme Buglioli — 555273 
+Lucas Pasqualini - 555169
 
 ---
 
-## 🎯 Contextualização e Problema Real
+##  Contextualização e Problema Real
 Em diversas comunidades e bairros, os cidadãos enfrentam dificuldades para obter informações claras e centralizadas sobre o funcionamento das **Unidades Básicas de Saúde (UBS)**, postos de vacinação comunitária e especialidades médicas disponíveis. Isso frequentemente gera deslocamentos desnecessários, filas excessivas e falta de acompanhamento preventivo.
 
 O **SaúdePerto** foi desenvolvido como um protótipo funcional para resolver essa dor do cotidiano urbano e rural, permitindo que a população:
@@ -24,14 +23,14 @@ O **SaúdePerto** foi desenvolvido como um protótipo funcional para resolver es
 
 ---
 
-## 👥 Público Beneficiado
+##  Público Beneficiado
 * **Cidadãos em geral** buscando atendimento primário e informações sobre vacinação.
 * **Idosos e gestantes** que necessitam verificar acessibilidade e horários de atendimento prioritário.
 * **Agentes comunitários e moradores locais** interessados em cadastrar novos pontos de atendimento ou serviços de saúde no bairro.
 
 ---
 
-## 🌍 Conexão com os Objetivos de Desenvolvimento Sustentável (ODS)
+##  Conexão com os Objetivos de Desenvolvimento Sustentável (ODS)
 O aplicativo **SaúdePerto** está diretamente conectado ao **ODS 3: Saúde e Bem-Estar** da Organização das Nações Unidas (ONU).
 
 * **Objetivo ODS 3:** *"Garantir uma vida saudável e promover o bem-estar para todas e todos, em todas as idades."*
@@ -39,7 +38,7 @@ O aplicativo **SaúdePerto** está diretamente conectado ao **ODS 3: Saúde e Be
 
 ---
 
-## 📱 Funcionalidades do Aplicativo
+##  Funcionalidades do Aplicativo
 
 ### 1. Tela Inicial (Contextualização e ODS)
 * Apresentação da identidade visual do app.
@@ -82,7 +81,7 @@ O aplicativo **SaúdePerto** está diretamente conectado ao **ODS 3: Saúde e Be
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 * **Linguagem:** Kotlin
 * **UI Framework:** Jetpack Compose (Material 3)
 * **Arquitetura:** MVVM (Model-View-ViewModel) + Repository Pattern
@@ -93,7 +92,7 @@ O aplicativo **SaúdePerto** está diretamente conectado ao **ODS 3: Saúde e Be
 
 ---
 
-## 🚀 Instruções para Executar o Projeto
+##  Instruções para Executar o Projeto
 
 1. **Clone ou extraia** o projeto no seu computador.
 2. Abra o **Android Studio** (versão Ladybug / Jellyfish ou superior).
@@ -104,7 +103,7 @@ O aplicativo **SaúdePerto** está diretamente conectado ao **ODS 3: Saúde e Be
 
 ---
 
-## 📸 Evidências de Funcionamento e Demonstração
+##  Evidências de Funcionamento e Demonstração
 
 *(Utilize os espaços abaixo para anexar as capturas de tela reais do seu aplicativo em execução)*
 
