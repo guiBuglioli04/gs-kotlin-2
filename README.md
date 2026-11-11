@@ -11,6 +11,12 @@ Guilherme Buglioli — 555273
 Lucas Pasqualini - 555169
 
 ---
+<img width="387" height="799" alt="image" src="https://github.com/user-attachments/assets/dd97c457-01e2-4f6c-8359-5f7194f37acc" />
+<img width="411" height="814" alt="image" src="https://github.com/user-attachments/assets/e21d819c-4259-4dad-bcbc-e8dabe2e86f6" />
+<img width="407" height="802" alt="image" src="https://github.com/user-attachments/assets/48a80205-a7a3-4fc1-8191-ae406bb74e8d" />
+<img width="400" height="782" alt="image" src="https://github.com/user-attachments/assets/5a39d618-567c-4337-8810-7dc301af40f7" />
+
+
 
 ##  Contextualização e Problema Real
 Em diversas comunidades e bairros, os cidadãos enfrentam dificuldades para obter informações claras e centralizadas sobre o funcionamento das **Unidades Básicas de Saúde (UBS)**, postos de vacinação comunitária e especialidades médicas disponíveis. Isso frequentemente gera deslocamentos desnecessários, filas excessivas e falta de acompanhamento preventivo.
