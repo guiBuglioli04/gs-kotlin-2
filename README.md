@@ -15,6 +15,7 @@ Lucas Pasqualini - 555169
 <img width="411" height="814" alt="image" src="https://github.com/user-attachments/assets/e21d819c-4259-4dad-bcbc-e8dabe2e86f6" />
 <img width="407" height="802" alt="image" src="https://github.com/user-attachments/assets/48a80205-a7a3-4fc1-8191-ae406bb74e8d" />
 <img width="400" height="782" alt="image" src="https://github.com/user-attachments/assets/5a39d618-567c-4337-8810-7dc301af40f7" />
+<img width="393" height="792" alt="image" src="https://github.com/user-attachments/assets/b53c4fdb-0287-40d8-b19a-9306bbd8b2bb" />
 
 
 
@@ -107,23 +108,3 @@ O aplicativo **SaúdePerto** está diretamente conectado ao **ODS 3: Saúde e Be
 5. Selecione um emulador Android (API 24+) ou conecte um dispositivo físico via USB Debugging.
 6. Clique no botão **Run 'app'** (SHIFT + F10) para compilar e executar o aplicativo.
 
----
-
-##  Evidências de Funcionamento e Demonstração
-
-*(Utilize os espaços abaixo para anexar as capturas de tela reais do seu aplicativo em execução)*
-
-### 1. Tela Inicial e Contextualização do ODS 3
-`[ Inserir Print da Tela Inicial aqui ]`
-
-### 2. Listagem de Unidades, Busca e Filtro de Favoritos
-`[ Inserir Print da Listagem aqui ]`
-
-### 3. Cadastro de Registro e Validação de Formulário
-`[ Inserir Print do Formulário de Cadastro aqui ]`
-
-### 4. Ação Adicional (Edição / Favoritar / Exclusão)
-`[ Inserir Print da Ação Adicional aqui ]`
-
-### 5. Comprovação de Persistência no Room (Dados mantidos após fechar/reabrir o app)
-`[ Inserir Print provando que os dados continuam salvos após fechar e reabrir o app ]`
